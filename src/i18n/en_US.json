@@ -1,0 +1,25 @@
+{
+  "routes": {
+    "banking": "Banking",
+    "invoicing": "Invoicing",
+    "expenses": "Expenses",
+    "employees": "Employees",
+    "reports": "Reports",
+    "taxes": "Taxes",
+    "accounting": "Accounting",
+    "apps": "Apps",
+    "tools": "Tools",
+    "recommended": "Recommended",
+    "frequently_run": "Frequently Run",
+    "my_custom_reports": "My Custom Reports",
+    "management_reports": "Management Reports",
+    "all_reports": "All Reports",
+    "all_sales": "All Sales",
+    "customers": "Customers",
+    "invoices": "Invoices",
+    "products_and_services": "Products and Services",
+    "banking_transactions": "Banking Transactions",
+    "rules": "rules",
+    "receipts": "receipts"
+  }
+}
